@@ -15,7 +15,7 @@ dns:
     - tls://1.0.0.1:853
     - tls://dns.google:853
 proxies:
-  - {name: 🇬🇧 高性价比机场:https://kfyun.uk, server: 127.0.0.1, port: 443, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: 6601fb90e9b3, tfo: false}
+  - {name: 🇬🇧 , server: 127.0.0.1, port: 443, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: 6601fb90e9b3, tfo: false}
   - {name: 0|--1, server: 221.139.79.57, port: 54345, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, tfo: false}
   - {name: 0|--2, server: 45.87.175.164, port: 8080, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 1RWwXhwfAB5gAEozU4G2Pg, tfo: false}
   - {name: 0|--3, server: 45.87.175.178, port: 8080, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 1RWwXhwfAB5gAEozU4G2Pg, tfo: false}
@@ -140,7 +140,7 @@ proxy-groups:
     proxies:
       - ♻️ 自动选择
       - 🎯 全球直连
-      - 🇬🇧 高性价比机场:https://kfyun.uk
+      - 🇬🇧 
       - 0|--1
       - 0|--2
       - 0|--3
@@ -264,7 +264,7 @@ proxy-groups:
     url: http://www.gstatic.com/generate_204
     interval: 300
     proxies:
-      - 🇬🇧 高性价比机场:https://kfyun.uk
+      - 🇬🇧 
       - 0|--1
       - 0|--2
       - 0|--3
@@ -389,7 +389,7 @@ proxy-groups:
       - 🔰 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - 🇬🇧 高性价比机场:https://kfyun.uk
+      - 🇬🇧 
       - 0|--1
       - 0|--2
       - 0|--3
@@ -532,7 +532,7 @@ proxy-groups:
     proxies:
       - 🎯 全球直连
       - 🔰 节点选择
-      - 🇬🇧 高性价比机场:https://kfyun.uk
+      - 🇬🇧 
       - 0|--1
       - 0|--2
       - 0|--3
@@ -656,7 +656,7 @@ proxy-groups:
     proxies:
       - 🔰 节点选择
       - 🎯 全球直连
-      - 🇬🇧 高性价比机场:https://kfyun.uk
+      - 🇬🇧 
       - 0|--1
       - 0|--2
       - 0|--3
@@ -781,7 +781,7 @@ proxy-groups:
       - 🔰 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - 🇬🇧 高性价比机场:https://kfyun.uk
+      - 🇬🇧 
       - 0|--1
       - 0|--2
       - 0|--3
@@ -915,7 +915,7 @@ proxy-groups:
       - 🔰 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - 🇬🇧 高性价比机场:https://kfyun.uk
+      - 🇬🇧 
       - 0|--1
       - 0|--2
       - 0|--3
